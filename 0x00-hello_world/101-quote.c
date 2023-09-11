@@ -2,6 +2,7 @@
 #include <unistd.h>
 /**
  * main - main function
+ *
  * Return: 1(success)
  */
 int main(void)

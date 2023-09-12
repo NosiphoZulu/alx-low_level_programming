@@ -2,7 +2,7 @@
 
 /**
  * main - function to print alphabet in lower case
- *
+ *Description: 'prints _putchar to stdout'
  * Return: 0
  */
 

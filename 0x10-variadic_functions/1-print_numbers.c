@@ -3,13 +3,13 @@
 #include <stdarg.h>
 
 /**
- * print_number - Prints numbers, followed by new line
+ * print_numbers - Prints numbers, followed by new line
  * @separator: The string to printed between numbers
  * @n: The number of intergers passed to the function
- * @...: Avaiable number of numbers to be printed
+ * @...: A variable number of numbers to be printed
  */
 
-void print_number(const char *separator, const unsigned int n, ...)
+void print_numbers(const char *separator, const unsigned int n, ...)
 {
 	va_list nums;
 	unsigned int index;
